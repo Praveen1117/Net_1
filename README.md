@@ -1,3 +1,6 @@
+
+https://mrcloudbook.hashnode.dev/devsecops-netflix-clone-ci-cd-with-monitoring-email
+
 Steps:-
 
 Step 1 — Launch an Ubuntu(22.04) T2 Large Instance
